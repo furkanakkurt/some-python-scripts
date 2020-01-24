@@ -1,3 +1,6 @@
+"""
+Checks whether the input taken by the user is prime or not 
+"""
 import math
 
 def isPrime(x):
